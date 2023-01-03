@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 CTO. Full-Stack Developer. Agile Coach. DevOp.
 -----------------------------------
 
-I'm a seasoned software professional with expertise in a range of roles, including development, DevOps, project management, quality assurance, and team leadership. Throughout my career, I've held positions ranging from developer to CTO, and have a track record of delivering successful software projects.
+I am a seasoned software professional with a diverse set of technical skills, including expertise in languages like JavaScript, Python, and Java. I have experience working with frameworks such as Play Framework, Spring, Struts, React, Vue.js, and Flask, and am comfortable with both frontend and backend development. In addition to my development skills, I am also familiar with a range of devops tools like Git, Docker, and Kubernetes, and have experience working with databases like MySQL, PostgreSQL, ArangoDB, and MongoDB. Throughout my career, I have held leadership positions and have a track record of successfully leading cross-functional teams to deliver high-quality software products. I am a hands-on CTO and democratic leader with a focus on continuous improvement and building strong, collaborative teams.
 
 * 🌍  I'm based in Germany
 * 🏡  [Website](https://daume.dev)
