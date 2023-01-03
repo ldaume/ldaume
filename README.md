@@ -11,9 +11,6 @@ I'm a seasoned software professional with expertise in a range of roles, includi
 * 🚀  I'm currently working on [Smartjobr](https://app.smartjobr.com)
 * 🤝  I'm open to collaborating on interesting projects
 
-<a href="https://www.github.com/ldaume" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ldaume?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/l_daume/my-stack)
