@@ -7,7 +7,7 @@ CTO. Full-Stack Developer. Agile Coach. DevOp. Workflow Automation.
 I am a seasoned software professional with a diverse set of technical skills, including expertise in languages like JavaScript, Python, and Java. I have experience working with frameworks such as Play Framework, Spring, Struts, React, Vue.js, and Flask, and am comfortable with both frontend and backend development. In addition to my development skills, I am also familiar with a range of devops tools like Git, Docker, and Kubernetes, and have experience working with databases like MySQL, PostgreSQL, ArangoDB, and MongoDB. Throughout my career, I have held leadership positions and have a track record of successfully leading cross-functional teams to deliver high-quality software products. I am a hands-on CTO and democratic leader with a focus on continuous improvement and building strong, collaborative teams.
 
 * 🌍  I'm based in Germany 🇩🇪
-* 🚀  I'm currently working at [WPS Management](https://wps-management.com/)
+* 🚀  I'm currently working at [Livable Places](https://www.livable-places.com)
 * 🤝  I'm open to collaborating on interesting projects
 * 🏡  [Website](https://daume.dev)
 
