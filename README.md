@@ -1,30 +1,72 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonard 'Lenny' Daume
-===================================================================================================================================
+# Leonard "Lenny" Daume
 
-CTO. Full-Stack Developer. Agile Coach. DevOp. Workflow Automation.
------------------------------------
+AI-native builder with CTO-level impact.
 
-I am a seasoned software professional with a diverse set of technical skills, including expertise in languages like JavaScript, Python, and Java. I have experience working with frameworks such as Play Framework, Spring, Struts, React, Vue.js, and Flask, and am comfortable with both frontend and backend development. In addition to my development skills, I am also familiar with a range of devops tools like Git, Docker, and Kubernetes, and have experience working with databases like MySQL, PostgreSQL, ArangoDB, and MongoDB. Throughout my career, I have held leadership positions and have a track record of successfully leading cross-functional teams to deliver high-quality software products. I am a hands-on CTO and democratic leader with a focus on continuous improvement and building strong, collaborative teams.
+I work where product, engineering, delivery, and operations have to become one working system: technical direction, hands-on engineering, platform operations, delivery flow, and AI-native workflows with clear guardrails.
 
-* 🌍  I'm based in Germany 🇩🇪
-* 🚀  I'm currently working at [Livable Places](https://www.livable-places.com)
-* 🤝  I'm open to collaborating on interesting projects
-* 🏡  [Website](https://daume.dev)
+This GitHub profile is not a complete CV. It is the technical side of the same story I tell on [daume.dev](https://www.daume.dev): build, reset, and scale product and engineering systems that teams can understand, operate, and improve.
 
-### Skills
+## What I Work On
 
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/l_daume/my-stack)
+- Product and engineering systems that connect strategy, architecture, delivery, quality, and operations
+- AI-native delivery with explicit context boundaries, reviewable artifacts, guardrails, and accountable workflows
+- Hands-on platform and backend work: monorepos, queues, workers, APIs, data flows, CI/CD, observability, and infrastructure
+- Engineering ownership models where teams can decide close to the work without losing responsibility for impact, security, privacy, or production behavior
+- 0-to-1 platforms, rebuilds, scale-up contexts, and technical direction that stays close to implementation
 
-#### A small excerpt
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+## Current Technical Focus
 
-### Socials<p align="left"> <a href="https://www.github.com/ldaume" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/leonard-daume" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/3493536" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+I currently work hands-on as CTO on a product system with real product, platform, data, and operational responsibility.
 
-### Badges
+The current system work includes:
 
-<b>My GitHub Stats</b>
+- pnpm/Turborepo monorepo for web app, services, workers, and operating tools
+- Bun and BullMQ workflows with Redis locking, Pub/Sub, and job-completion signals
+- self-hosted platform operations with Docker Swarm, Traefik, Authentik, Ansible, Docker Secrets, restic, WireGuard, and observability
+- geo and census services with Kotlin, Spring Boot, PostGIS, OpenAPI, FastAPI, Valhalla, OSM, and external POI imports
+- AI/ML product research with PCA, k-means, benchmarking, feature ablation, and evidence gates
+- local agent skills, plugin development, and multi-agent research workflows as part of the product evidence layer
 
-<a href="http://www.github.com/ldaume"><img src="https://github-readme-stats.vercel.app/api?username=ldaume&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ldaume's GitHub stats" /></a>
+## Selected Proof Signals
 
-<a href="http://www.github.com/ldaume"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ldaume&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- Remotely scaled delivery across 15 teams and 100+ developers, using flow signals, golden paths, cloud-native delivery, and stronger operational ownership
+- Built an AI-supported freelancer-project matching platform from 0 to 1 with product, technology, and team setup in one responsibility
+- Built a health-study SaaS from product model through backend, frontend, CI/CD, team setup, and operations
+- Built SERP parser and crawler systems in a SaaS SEO analytics context, including parser work for 450M+ keywords worldwide
+- Led backend, delivery, and architecture work for a big-data SEO platform with Java/Scala, microservices, multi-database architecture, AWS/Docker platform work, and team leadership
+- Gained enterprise and operations grounding through Java enterprise systems, SMS infrastructure, portal work, data-center operations, and 24/7 production reality
+
+## Engineering Stance
+
+Software development is not plan execution. It is product and system evolution under uncertainty.
+
+Good engineering connects:
+
+- product direction
+- engineering judgment
+- delivery flow
+- operational feedback
+- security and privacy by design
+- readable systems
+- built-in quality
+- team ownership
+
+Ownership does not mean heroics. It means making responsible decisions because the system gives people enough context, clear boundaries, and support when risk is shared.
+
+That is also how I use AI in engineering: not as blind automation, but as workflow leverage with context boundaries, review discipline, reproducible artifacts, and clear accountability.
+
+## Technical Range
+
+I do not treat technology lists as the point, but these are recurring parts of the work:
+
+- Languages: TypeScript, JavaScript, Java, Kotlin, Python, Scala
+- Web and product: Astro, React, Vue, Svelte, Next.js, PWA patterns, REST/OpenAPI
+- Backend and data: Spring Boot, Play Framework, FastAPI, PostgreSQL, PostGIS, MySQL, ArangoDB, MongoDB, Redis
+- Delivery and operations: Docker, Docker Swarm, Kubernetes, Traefik, Ansible, CI/CD, Jenkins, GitHub Actions, observability, alerting, backups
+- AI and data work: LLM workflows, agent skills, plugin development, PCA, k-means, NLP, feature ablation, evidence gates
+
+## Links
+
+- Website: [daume.dev](https://www.daume.dev)
+- LinkedIn: [linkedin.com/in/leonard-daume](https://www.linkedin.com/in/leonard-daume/)
+- GitHub: [github.com/ldaume](https://github.com/ldaume)
