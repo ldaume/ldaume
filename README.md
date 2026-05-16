@@ -2,30 +2,32 @@
 
 AI-native builder with CTO-level impact.
 
-I build and run product engineering systems: architecture, delivery flow, platform operations, and AI-native work with clear ownership.
+I build product engineering systems: architecture, backend and data services, delivery flow, platform operations, and AI-native work with clear ownership.
 
 Project context, CV material, and contact details are on [daume.dev](https://www.daume.dev).
 
 ## What I work on
 
 - Product and engineering systems that connect strategy, architecture, delivery, quality, and operations
+- Web and product surfaces where UX, domain logic, APIs, and runtime behavior have to fit together
+- Backend and data services: APIs, workers, queues, geodata, search, reporting, and persistence
 - AI-native delivery with clear context boundaries, quality checks, traceable decisions, and responsible ownership
-- Hands-on platform and backend work: monorepos, queues, workers, APIs, data flows, CI/CD, observability, and infrastructure
+- Delivery systems: monorepos, CI/CD, release paths, observability, documentation, and operational feedback
 - Engineering ownership models where teams can decide close to the work without losing responsibility for impact, security, privacy, or production behavior
 - 0-to-1 platforms, rebuilds, scale-up contexts, and technical direction that stays close to implementation
 
 ## Current technical focus
 
-I currently work hands-on as CTO on a product system with product, platform, data, and operational responsibility in one place.
+I currently work hands-on as CTO on a product system where product logic, data workflows, backend services, UI work, and operations sit close together.
 
 The current system work includes:
 
-- pnpm/Turborepo monorepo for web app, services, workers, and operating tools
-- Bun and BullMQ workflows with Redis locking, Pub/Sub, and job-completion signals
-- self-hosted platform operations with Docker Swarm, Traefik, Authentik, Ansible, Docker Secrets, restic, WireGuard, and observability
-- geo and census services with Kotlin, Spring Boot, PostGIS, OpenAPI, FastAPI, Valhalla, OSM, and external POI imports
-- AI/ML product research with PCA, k-means, benchmarking, feature ablation, and evidence gates
-- research automation, local working templates, and technical decision support as part of the product evidence layer
+- product and UI work in a pnpm/Turborepo setup with web app, services, workers, and operating tools
+- backend and worker flows with Bun, BullMQ, Redis, typed APIs, and explicit job-completion signals
+- geo, routing, and census services with Kotlin, Spring Boot, PostGIS, OpenAPI, FastAPI, Valhalla, OSM, and external POI imports
+- product research with PCA, k-means, benchmarking, residualization, feature ablation, and evidence gates
+- reporting, export, demo, analytics, and internal planning paths that connect product learning with delivery
+- platform operations across deployment, auth, backups, observability, incident visibility, and recovery paths
 
 ## Selected proof signals
 
@@ -34,7 +36,7 @@ The current system work includes:
 - Built a health-study SaaS from product model through backend, frontend, CI/CD, team setup, and operations
 - Built SERP parser and crawler systems in a SaaS SEO analytics context, including parser work for 450M+ keywords worldwide
 - Led backend, delivery, and architecture work for a big-data SEO platform with Java/Scala, microservices, multi-database architecture, AWS/Docker platform work, and team leadership
-- Gained enterprise and operations grounding through Java enterprise systems, SMS infrastructure, portal work, data-center operations, and 24/7 production reality
+- Built enterprise Java systems, SMS infrastructure, portal work, and data-center operations experience into a practical "you build it, you help run it" engineering stance
 
 ## Engineering stance
 
@@ -61,8 +63,8 @@ These are recurring parts of the work:
 
 - Languages: TypeScript, JavaScript, Java, Kotlin, Python, Scala
 - Web and product: Astro, React, Vue, Svelte, Next.js, PWA patterns, REST/OpenAPI
-- Backend and data: Spring Boot, Play Framework, FastAPI, PostgreSQL, PostGIS, MySQL, ArangoDB, MongoDB, Redis
-- Delivery and operations: Docker, Docker Swarm, Kubernetes, Traefik, Ansible, CI/CD, Jenkins, GitHub Actions, observability, alerting, backups
+- Backend and data: Spring Boot, Play Framework, FastAPI, Bun, BullMQ, PostgreSQL, PostGIS, MySQL, ArangoDB, MongoDB, Redis
+- Delivery and operations: CI/CD, Jenkins, GitHub Actions, Docker, Kubernetes, deployment automation, observability, alerting, backups
 - AI and data work: workflow automation, research tooling, PCA, k-means, NLP, feature ablation, evidence gates
 
 ## Links
