@@ -2,9 +2,9 @@
 
 AI-native builder with CTO-level impact.
 
-I work where product, engineering, delivery, and operations have to become one working system: technical direction, hands-on engineering, platform operations, delivery flow, and AI-native work with clear responsibility.
+I build and run product engineering systems: architecture, delivery flow, platform operations, and AI-native work with clear ownership.
 
-This profile covers the technical side of the same story I tell on [daume.dev](https://www.daume.dev): build, reset, and scale product and engineering systems that teams can understand, operate, and improve.
+Project context, CV material, and contact details are on [daume.dev](https://www.daume.dev).
 
 ## What I work on
 
@@ -16,7 +16,7 @@ This profile covers the technical side of the same story I tell on [daume.dev](h
 
 ## Current technical focus
 
-I currently work hands-on as CTO on a product system with real product, platform, data, and operational responsibility.
+I currently work hands-on as CTO on a product system with product, platform, data, and operational responsibility in one place.
 
 The current system work includes:
 
