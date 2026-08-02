@@ -1,17 +1,21 @@
 # Leonard "Lenny" Daume
 
-AI-native builder with CTO-level impact.
+Hands-on builder with CTO-level judgment across product, engineering, delivery, operations, and agentic systems.
 
-I build product engineering systems: architecture, backend and data services, delivery flow, platform operations, and AI-native work with clear ownership.
+I build product engineering systems: architecture, backend and data services, delivery flow, platform operations, and agentic engineering with clear ownership.
 
 Project context, CV material, and contact details are on [daume.dev](https://www.daume.dev).
+
+## Open working model
+
+- [Agentic Engineering Skills & Harness](https://github.com/ldaume/agentic-engineering-harness) - the public Skills, repository patterns, review loops, and product-engineering model I use to make agent work reliable from bounded repository tasks through governed value streams.
 
 ## What I work on
 
 - Product and engineering systems that connect strategy, architecture, delivery, quality, and operations
 - Web and product surfaces where UX, domain logic, APIs, and runtime behavior have to fit together
 - Backend and data services: APIs, workers, queues, geodata, search, reporting, and persistence
-- AI-native delivery with clear context boundaries, quality checks, traceable decisions, and responsible ownership
+- Agentic engineering with clear context boundaries, quality checks, traceable decisions, and responsible ownership
 - Delivery systems: monorepos, CI/CD, release paths, observability, documentation, and operational feedback
 - Engineering ownership models where teams can decide close to the work without losing responsibility for impact, security, privacy, or production behavior
 - 0-to-1 platforms, rebuilds, scale-up contexts, and technical direction that stays close to implementation
