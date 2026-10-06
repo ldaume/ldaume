@@ -18,7 +18,7 @@ I build AI-native, agentic product and software systems end to end and stay hand
 - **CTO-level scope, proven.** As CTO I scaled remote delivery across 15 teams and 100+ developers, and as hands-on CTO I built several products from 0 to 1.
 - **Still building, at speed.** My own product [Jev Studio](https://jev-studio.daume.dev) went from first commit to live in one week, built and run by agents.
 - **Agentic engineering in the open.** My [Skills & Harness](https://github.com/ldaume/agentic-engineering-harness) runs across Claude Code, Codex, Cursor, and Gemini CLI, and the levels I work by are public as the [Agentic Engineering Maturity Model](https://www.daume.dev/en/agentic-engineering-maturity-model).
-- **Already working on what comes next.** Value Pipeline, in development and proven first on my own system, aims at an adaptive product system ([Level 7](https://www.daume.dev/en/agentic-engineering-maturity-model)): agents running the loop from signal to outcome across product and delivery.
+- **My own system already runs this way.** Across a dozen repositories, from products and a public website to a homelab platform, agents pick up work, build it test-first, get it reviewed in fresh context, merge, deploy, check it in production, and write back what they learned. They also keep dependencies and their own Skills current and drill restores; people step in for direction, budgets, and anything that leaves the system.
 
 ## How I deliver
 
