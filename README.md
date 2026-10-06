@@ -31,10 +31,10 @@ Project context, CV material, and contact details are on [daume.dev](https://www
 
 ## Selected proof signals
 
-- Hands-on CTO for an AI-supported geodata product platform: product and UI work, worker flows, geo and routing services, product research with evidence gates, and platform operations in one responsibility
-- Remotely scaled delivery across 15 teams and 100+ developers, using flow signals, golden paths, cloud-native delivery, and stronger operational ownership
-- Built an AI-supported freelancer-project matching platform from 0 to 1 with product, technology, and team setup in one responsibility
-- Built a health-study SaaS from product model through backend, frontend, CI/CD, team setup, and operations
+- As CTO, scaled remote delivery across 15 teams and 100+ developers, using flow signals, golden paths, cloud-native delivery, and stronger operational ownership
+- As hands-on CTO of an AI-supported geodata product platform, owned product and UI work, worker flows, geo and routing services, product research with evidence gates, and platform operations
+- As hands-on CTO and Chief Product Owner, built an AI-supported freelancer-project matching platform from 0 to 1, with product, technology, and team setup in one responsibility
+- As hands-on CTO, built a health-study SaaS from product model through backend, frontend, CI/CD, team setup, and operations
 - Built SERP parser and crawler systems in a SaaS SEO analytics context, including parser work for 450M+ keywords worldwide
 - Led backend, delivery, and architecture work for a big-data SEO platform with Java/Scala, microservices, multi-database architecture, AWS/Docker platform work, and team leadership
 
