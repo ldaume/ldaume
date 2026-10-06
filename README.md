@@ -1,8 +1,8 @@
 # Leonard "Lenny" Daume
 
-I work at CTO level and stay hands-on: technical direction, product judgment, architecture, delivery, and operations as one system, with ownership for the outcome rather than for a title.
+I build agentic product and software systems end to end: technical direction, product judgment, architecture, delivery, and operations as one system, with ownership for the outcome.
 
-My focus is agentic product and software development: agents inside products and across the whole value stream, from signal and discovery through build, verification, release, and operations, with checks, review, and recovery built in and software that stays reliable in production.
+Agents work inside the products and across the whole value stream, from signal and discovery through build, verification, release, and operations, with checks, review, and recovery built in and software that stays reliable in production.
 
 Project context, CV material, and contact details are on [daume.dev](https://www.daume.dev).
 
@@ -53,6 +53,10 @@ I work AI-native across the product path: organize signals, reduce uncertainty, 
 - Backend and data: Spring Boot, Play Framework, FastAPI, Bun, BullMQ, PostgreSQL, PostGIS, MySQL, ArangoDB, MongoDB, Redis
 - Delivery and operations: CI/CD, GitHub and Gitea Actions, Docker, Kubernetes, Traefik, Renovate, observability, alerting, backups with drilled restores
 - Agentic and AI work: Claude Code, Codex, Cursor, typed decision models, evaluation and evidence gates, workflow automation, NLP
+
+## Next conversation
+
+If you are building agentic product or delivery systems, or need hands-on technical direction for a product that has to work in production, whether full-time, fractional, or as advisory support, start the conversation on [daume.dev](https://www.daume.dev/en/contact).
 
 ## Links
 
