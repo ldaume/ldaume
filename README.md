@@ -10,7 +10,7 @@ I build AI-native, agentic product and software systems end to end and stay hand
 
 - **A product that reaches production and keeps working.** Thin end-to-end slices, tests first, and every release checked where it runs.
 - **Agents that run the delivery loop, not just write code.** They carry work from signal through build, review, merge, deploy, and the check in production; people set direction and investment boundaries.
-- **Decisions made close to the code.** Product judgment, architecture, and technical direction from someone who writes and runs the software too.
+- **Decisions grounded in the running system.** Product judgment, architecture, and technical direction from someone who builds, ships, and runs the software.
 - **A system your team can own.** Clear ownership, readable code, decisions written down, observability, and backups with drilled restores.
 
 ## Why me
