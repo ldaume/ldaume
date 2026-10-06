@@ -1,14 +1,20 @@
 # Leonard "Lenny" Daume
 
-Hands-on builder with CTO-level judgment across product, engineering, delivery, operations, and agentic systems.
+I work at CTO level and stay hands-on: technical direction, product judgment, architecture, delivery, and operations as one system, with ownership for the outcome rather than for a title.
 
-I build product engineering systems where architecture, delivery flow, operations, and agents reinforce each other: agents inside products and across the value stream, with clear ownership and software that stays reliable in operation.
+My focus is agentic product and software development: agents inside products and across the whole value stream, from signal and discovery through build, verification, release, and operations, with checks, review, and recovery built in and software that stays reliable in production.
 
 Project context, CV material, and contact details are on [daume.dev](https://www.daume.dev).
 
 ## Now
 
 **Engineering Director, Agentic AI at OH-SO Digital.** I work where client problems, product ideas, and technical reality meet: technical responsibility across client projects, hands-on, and helping shape how OH-SO builds software and shares what it learns.
+
+## Agentic engineering in practice
+
+- My own multi-repository system runs agents at high autonomy: they decide, build, review, merge, deploy, and check routine work in production, while people keep direction, investment boundaries, and anything that reaches the outside world.
+- Autonomy expands only with evidence: tests written first, independent review in fresh context, required checks, drilled restores, and a stop path for every loop. The levels I use are public as the [Agentic Engineering Maturity Model](https://www.daume.dev/en/agentic-engineering-maturity-model).
+- Model and host choices stay replaceable: the same harness runs across Claude Code, Codex, Cursor, and Gemini CLI.
 
 ## Built in the open
 
@@ -18,7 +24,6 @@ Project context, CV material, and contact details are on [daume.dev](https://www
 ## What I work on
 
 - Product and engineering systems that connect strategy, architecture, delivery, quality, and operations
-- Agentic product and software development: agents across signal, discovery, build, verification, release, and operations, with context boundaries, checks, and traceable decisions
 - Web and product surfaces where UX, domain logic, APIs, and runtime behavior have to fit together
 - Backend and data services: APIs, workers, queues, geodata, search, reporting, and persistence
 - Delivery systems: monorepos, CI/CD, release paths, observability, backups, and operational feedback
