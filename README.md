@@ -9,7 +9,7 @@ I build AI-native, agentic product and software systems end to end and stay hand
 ## What you get
 
 - **A product that reaches production and keeps working.** Thin end-to-end slices, tests first, and every release checked where it runs.
-- **Agents that carry real work, safely.** They take understood work through build, review, merge, and deploy; people keep direction, investment boundaries, and anything that reaches the outside world.
+- **Agents that run the delivery loop, not just write code.** They carry work from signal through build, review, merge, deploy, and the check in production; people set direction and investment boundaries.
 - **Decisions made close to the code.** Product judgment, architecture, and technical direction from someone who writes and runs the software too.
 - **A system your team can own.** Clear ownership, readable code, decisions written down, observability, and backups with drilled restores.
 
@@ -18,6 +18,7 @@ I build AI-native, agentic product and software systems end to end and stay hand
 - **CTO-level scope, proven.** As CTO I scaled remote delivery across 15 teams and 100+ developers, and as hands-on CTO I built several products from 0 to 1.
 - **Still building, at speed.** My own product [Jev Studio](https://jev-studio.daume.dev) went from first commit to live in one week, built and run by agents.
 - **Agentic engineering in the open.** My [Skills & Harness](https://github.com/ldaume/agentic-engineering-harness) runs across Claude Code, Codex, Cursor, and Gemini CLI, and the levels I work by are public as the [Agentic Engineering Maturity Model](https://www.daume.dev/en/agentic-engineering-maturity-model).
+- **Already working on what comes next.** Value Pipeline, in development and proven first on my own system, aims at an adaptive product system ([Level 7](https://www.daume.dev/en/agentic-engineering-maturity-model)): agents running the loop from signal to outcome across product and delivery.
 
 ## How I deliver
 
@@ -25,7 +26,7 @@ I build AI-native, agentic product and software systems end to end and stay hand
 - Every practice earns its place by improving flow, quality, or decisions; anything else goes.
 - Quality, security, design, and operations join the first conversation, not a late gate.
 - Done means running in production and checked there.
-- Autonomy grows only with evidence: tests, independent review, required checks, and a stop path for every loop.
+- Autonomy grows as fast as the evidence does: tests first, independent review, required checks, and a stop path for every loop.
 
 ## Now
 
